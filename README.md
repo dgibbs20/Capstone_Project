@@ -1,3 +1,25 @@
+<img width="1536" height="1024" alt="1" src="https://github.com/user-attachments/assets/6ce82b7e-c37a-4ed3-9851-1865136cd37d" />
+
+## Tech Stack
+
+| Area          | Technologies Used |
+|---------------|-------------------|
+| Language      | Python 3.10 |
+| Backend API   | FastAPI |
+| Machine Learning | Scikit-Learn (TF-IDF + LinearSVC) |
+| Frontend      | HTML, CSS, JavaScript |
+| Database      | SQLite |
+| Tools         | Uvicorn, Pandas, Joblib |
+| Version Control | Git & GitHub |
+
+
+![GitHub last commit](https://img.shields.io/github/last-commit/dgibbs20/Capstone_Project)
+![GitHub repo size](https://img.shields.io/github/repo-size/dgibbs20/Capstone_Project)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Framework-teal)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+
 # Smart Budgeting Agent — Capstone Project (ITAI-2277)
 **Author:** Derrick K. Gibbs-McGlaston  
 **Instructor:** Sitaram Ayyagari  
@@ -85,7 +107,28 @@ Metrics are stored in:
 - GitHub repo with full installation instructions  
 - Ready for instructor testing  
 
-## Contact
+
+## Demo & Screenshots
+
+Below are screenshots demonstrating the Smart Budgeting Agent in action.
+
+### Application Homepage
+<img width="1496" height="967" alt="Screenshot 2025-12-03 at 1 44 06 PM" src="https://github.com/user-attachments/assets/beb30c02-7a4b-4e8d-b4e3-7a664e977e45" />
+<img width="1496" height="967" alt="Screenshot 2025-12-03 at 1 38 52 PM" src="https://github.com/user-attachments/assets/709128cb-df2e-41e0-968a-4689d2e0638b" />
+<img width="1496" height="967" alt="Screenshot 2025-12-03 at 1 38 52 PM" src="https://github.com/user-attachments/assets/a315a16f-1892-4f79-9eea-6983f01e8614" />
+
+
+### Transaction Prediction Example
+<img width="1496" height="967" alt="Screenshot 2025-12-03 at 1 44 06 PM" src="https://github.com/user-attachments/assets/beb30c02-7a4b-4e8d-b4e3-7a664e977e45" />
+<img width="1496" height="967" alt="Screenshot 2025-12-03 at 1 44 06 PM" src="https://github.com/user-attachments/assets/c3ecf432-774e-49be-9bed-27435247a05b" />
+
+These images show:
+- The working frontend UI
+- The prediction interface
+- End-to-end system operation
+
+ 
+# Contact
 **Derrick K. Gibbs-McGlaston**  
 Email: derrickkgibbs@gmail.com  
 GitHub: https://github.com/dgibbs20
