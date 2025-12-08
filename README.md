@@ -17,7 +17,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/dgibbs20/Capstone_Project)
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Framework-teal)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)<img width="1536" height="1024" alt="1" src="https://github.com/user-attachments/assets/bfe643f5-8709-49e3-aeb4-bb4b68d42a8f" />
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 
 # Smart Budgeting Agent — Capstone Project (ITAI-2277)
