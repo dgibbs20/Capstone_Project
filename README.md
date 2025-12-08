@@ -61,7 +61,7 @@ Capstone_Project/
 
 ## Installation & Setup Instructions
 ### 1. Clone the Repository
-git clone https://github.com/YOUR_USERNAME/Capstone_Project.git  
+git clone https://github.com/dgibbs20/Capstone_Project.git  
 cd Capstone_Project  
 
 ### 2. Create & Activate Virtual Environment
