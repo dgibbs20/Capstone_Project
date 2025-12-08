@@ -113,14 +113,12 @@ Metrics are stored in:
 Below are screenshots demonstrating the Smart Budgeting Agent in action.
 
 ### Application Homepage
-<img width="1496" height="967" alt="Screenshot 2025-12-03 at 1 44 06 PM" src="https://github.com/user-attachments/assets/beb30c02-7a4b-4e8d-b4e3-7a664e977e45" />
-<img width="1496" height="967" alt="Screenshot 2025-12-03 at 1 38 52 PM" src="https://github.com/user-attachments/assets/709128cb-df2e-41e0-968a-4689d2e0638b" />
 <img width="1496" height="967" alt="Screenshot 2025-12-03 at 1 38 52 PM" src="https://github.com/user-attachments/assets/a315a16f-1892-4f79-9eea-6983f01e8614" />
 
 
 ### Transaction Prediction Example
 <img width="1496" height="967" alt="Screenshot 2025-12-03 at 1 44 06 PM" src="https://github.com/user-attachments/assets/beb30c02-7a4b-4e8d-b4e3-7a664e977e45" />
-<img width="1496" height="967" alt="Screenshot 2025-12-03 at 1 44 06 PM" src="https://github.com/user-attachments/assets/c3ecf432-774e-49be-9bed-27435247a05b" />
+
 
 These images show:
 - The working frontend UI
