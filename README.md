@@ -123,7 +123,23 @@ These images show:
 - The prediction interface
 - End-to-end system operation
 
-  
+
+## 📽️ Project Demo Video
+
+A full live demonstration of the Smart Budgeting Agent is available here:
+
+▶ **Demo Video:**  
+https://github.com/dgibbs20/Capstone_Project/releases/download/v1.0.0/Screen.Recording.2025-12-08.at.9.34.02.PM.mov
+
+This video shows:
+- Launching the backend server  
+- Using the frontend UI  
+- Running predictions  
+- Saving transactions  
+- Reviewing activity in real time  
+
+
+
 ## Contact
 Derrick K. Gibbs-McGlaston  
 Email: derrickkgibbs@gmail.com  
